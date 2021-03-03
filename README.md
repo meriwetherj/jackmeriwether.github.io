@@ -2,4 +2,4 @@
 
 title: Welcome to Jack Meriwether's Devfolio homepage. 
 
-description: a collection of Jack Meriwether's dev projects.
+description: A collection of Jack Meriwether's dev projects.
